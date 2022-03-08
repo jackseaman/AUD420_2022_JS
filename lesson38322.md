@@ -1,8 +1,8 @@
 # To Do Today
 
-Forms for erasmus
+Forms for erasmus (Y)
 
-iTerm
+iTerm (Y)
 
 AUD420 shite mon lad
 
